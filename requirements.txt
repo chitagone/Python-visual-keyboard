@@ -1,0 +1,13 @@
+# Core computer vision and image processing
+opencv-python>=4.8.0
+cvzone>=1.5.6
+mediapipe>=0.10.0  # Required by cvzone for hand tracking
+
+# Numerical computations
+numpy>=1.24.0
+
+# System interaction
+pynput>=1.7.6  # For keyboard and mouse control
+psutil>=5.9.0  # For process management
+
+# Note: Some packages might install additional dependencies automatically
